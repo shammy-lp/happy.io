@@ -8,8 +8,8 @@ body {
 }
 
 header {
-  background: #FFD700;
-  color: white;
+  background: #FFD700; /* bright yellow */
+  color: black;
   padding: 20px 0;
   text-align: center;
 }
